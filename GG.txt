@@ -1,0 +1,39 @@
+Esp8266 Nodemcu
+Arduino
+Arduino Breadboard
+LCD 16x2 Blue Backlight 5V
+Resistors
+Jumper Wires
+LED (RED, BLUE, YELLOW)
+USB Cable Extension
+USB to Mini USB Connector	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5000 IQD = توصيل
+Arduino Mega 2560 R3                    | 15,000 IQD
+Node MCU CH340                          | 8,500   IQD
+20cm Cable (M-M)   	                    | 2,000   IQD
+20cm Cable (M-F)   	                    | 2,000   IQD
+LED 5MM Defused (32pcs)                 | 1000    IQD
+Mini USB Cable [ 1m ]                   | 1,750   IQD
+---
+Resistor 10 k-Ohm                (5pcs) | ?? IQD
+Resistor 1 k-Ohm                 (5pcs) | ?? IQD
+Resistor 560, 1.0, 3.3, 6.8 Ohm  (5pcs) | ?? IQD
+---
+
