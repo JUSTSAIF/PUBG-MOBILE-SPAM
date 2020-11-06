@@ -11,7 +11,7 @@ Created in 2020/10/18
 - PHP
 - JS, Jquery , Ajax
 - Css, Bootstrap
-- ! Maybe You Can Use PHP Desktop App , And Install App on Local ^_^ .
+- ! Maybe You Can Use PHP Desktop App , And Install This Project on Local ^_^ .
 
 
 ![program pic1](https://cdn.discordapp.com/attachments/701291550516314173/748974633650225252/Untitled.png)
