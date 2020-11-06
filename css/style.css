@@ -1,0 +1,75 @@
+body {
+    background-color: rgb(3, 2, 7);
+    /* direction: rtl; */
+    font-family: 'Cairo', sans-serif;
+}
+
+.footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+    background-color: #3d2d7b4f;
+    color: rgb(214, 214, 214);
+    text-align: center;
+}
+
+.index-all-page-img {
+    cursor: pointer;
+}
+
+
+/*image gallery*/
+
+.image-checkbox {
+    cursor: pointer;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    border: 4px solid transparent;
+    margin-bottom: 0;
+    outline: 0;
+}
+
+.image-checkbox-checked {
+    border: 10px solid #4783B0;
+}
+
+#img-chk-box {
+    width: 70%;
+    height: 70%;
+    border: 1px solid rgb(76, 0, 255);
+}
+
+
+/* .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+} */
+
+#pop-login-index {
+    position: absolute;
+    background-color: rgba(38, 70, 211, 0.363);
+    border-radius: 10px;
+    padding: 10px;
+    z-index: 9999;
+    font-size: 20px;
+    color: rgb(214, 214, 214);
+    align-items: center;
+}
+
+.uc-img-res {
+    border: 1px solid rgb(76, 0, 255);
+    cursor: pointer;
+}
+
+.uc-checked {
+    border: 2px solid rgb(255, 0, 0);
+    cursor: pointer;
+}
+
+.uc-title {
+    color: rgb(206, 206, 206);
+}

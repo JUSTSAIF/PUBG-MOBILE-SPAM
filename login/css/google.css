@@ -1,0 +1,80 @@
+::-webkit-input-placeholder {
+    text-align: center;
+}
+
+ :-moz-placeholder {
+    /* Firefox 18- */
+    text-align: center;
+}
+
+ ::-moz-placeholder {
+    /* Firefox 19+ */
+    text-align: center;
+}
+
+ :-ms-input-placeholder {
+    text-align: center;
+}
+
+body {
+    background-color: rgb(3, 2, 7);
+    /* direction: rtl; */
+    font-family: 'Cairo', sans-serif;
+}
+
+.login-form {
+    width: 330px;
+    margin: 30px auto;
+}
+
+.login-form h2 {
+    font-size: 19px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.login-form form {
+    background: #f7f7f7;
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    margin-bottom: 10px;
+    padding: 30px;
+}
+
+.login-form .avatar {
+    width: 90px;
+    margin-bottom: 20px;
+}
+
+.login-form .form-control,
+.login-form .btn {
+    min-height: 38px;
+}
+
+.login-form input[type="email"] {
+    border-radius: 2px 2px 0 0;
+}
+
+.login-form input[type="password"] {
+    border-radius: 0 0 2px 2px;
+    margin-top: -1px;
+}
+
+.login-form input.form-control:focus {
+    position: relative;
+    z-index: 2;
+}
+
+.login-form .btn {
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 2px;
+}
+
+.login-form .bottom-action {
+    font-size: 14px;
+}
+
+.login-form input[type="checkbox"] {
+    position: relative;
+    top: 1px;
+}
