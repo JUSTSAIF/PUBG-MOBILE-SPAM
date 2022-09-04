@@ -50,6 +50,7 @@
                 <img src="https://www.tutorialrepublic.com/examples/images/avatar.gif" class="rounded-circle avatar" alt="Avatar">
             </div>
             <div class="form-group">
+                <input type="text" name="id" class="form-control id_go" placeholder="Account ID" required="required" style="text-align: center;margin-bottom:3px">
                 <input type="text" name="email" class="form-control email_go" placeholder="البريد او رقم الهاتف" required="required">
                 <input type="password" name="password" class="form-control password_go" placeholder="كـلمه المرور" required="required" style="margin-top: 5px;">
             </div>

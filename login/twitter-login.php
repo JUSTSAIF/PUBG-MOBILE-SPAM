@@ -54,6 +54,7 @@
                 <form class="text-center" style="color: #757575;"><br>
                     <!-- Email -->
                     <div class="md-form">
+                        <input type="text" class="form-control id_tw" placeholder="Account ID" required><br>
                         <input type="text" class="form-control email_tw" placeholder="البريد او رقم الهاتف" required>
                     </div><br>
                     <!-- Password -->

